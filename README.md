@@ -1,4 +1,4 @@
-ext-to-Voice Generator using HTML, CSS, and JavaScript
+Text-to-Voice Generator using HTML, CSS, and JavaScript
 
 Welcome to the Text-to-Voice Generator project! This application allows users to convert text input into speech output using a simplistic interface built with HTML, CSS, and JavaScript. By integrating these fundamental web technologies, this tool aims to showcase the seamless synthesis of text-to-speech functionalities in a user-friendly manner.
 
